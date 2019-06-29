@@ -2,6 +2,6 @@
 “git init”
 “touch README.md”
 
-| <h1>**NOMBRE**</h1> | **GITHUB** |
+| <h3>**NOMBRE**</h3> | **GITHUB** |
 | ------ | ------:|
 | Guillermo | https://github.com/gdiazherrero || José | https://github.com/jredondoh || Adrián | https://github.com/usuarioadrian |
